@@ -12,8 +12,8 @@
   <span style="color: #1800ff">Aspiring Full Stack Developer</span></h2>
 
   <hr>
-  <h3> CONTACT INFO: <a href= "https://github.com/junghoona"> GITHUB </a> | <a href="https://www.linkedin.com/in/john-an-02543119a/"> LINKEDIN </a>
-       <a href= "mailto: 127.an.john@gmail.com" EMAIL </a></h3>
+  <h3> CONTACT INFO: <a href= "https://github.com/junghoona"> GITHUB </a> | <a href="https://www.linkedin.com/in/john-an-02543119a/"> LINKEDIN </a> | <a href= "mailto: 127.an.john@gmail.com"> EMAIL </a></h3>
+  
 <body>
 <div style="font-family: 'Rubik', serif;">
       <p>
