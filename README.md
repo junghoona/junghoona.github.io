@@ -31,49 +31,7 @@
       In my spare time, I like to stay active by working out at a local facility, playing basketball and hiking.
       I love trying out new food, exploring new sights, meeting new people, and learning new things.
       </p>
-<div class="footer">
-  <div>
-    <div class="logo-wrapper">
-      <div class="logo-container">
-        <a href="https://github.com/junghoona" target=""_blank"" rel=""noopener" noreferrer"> </a>
-      </div>
-      <div class="logo-container">
-        <a href="https://www.linkedin.com/in/john-an-02543119a/" target=""_blank"" rel=""noopener" noreferrer"> </a>
-      </div>
-      <div class="logo-container">
-        <a href="mailto: 127.an.john@gmail.com" target=""_blank"" rel=""noopener" noreferrer"> </a>
-      </div>
-    </div>
-  </div>
 </div>
 </body>
 </html>
 
-body {
-  width: 550px;
-  color: #444;
-  font-size: 16px;
-  text-align: center;
-}
-
-h1 {
-    color: #1800ff;
-    font-size: 52px;
-}
-
-h2 {
-    color: #666;
-    font-size: 22px;
-}
-
-h3 {
-    font-size: 16px;
-}
-a {
-  color: #0092ff;
-  text-decoration: none;
-}
-a:hover {
-    color: #ffc200;
-    text-decoration: underline;
-}
