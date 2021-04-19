@@ -1,0 +1,28 @@
+body {
+  width: 550px;
+  color: #444;
+  font-size: 16px;
+  text-align: center;
+}
+
+h1 {
+    color: #1800ff;
+    font-size: 52px;
+}
+
+h2 {
+    color: #666;
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 16px;
+}
+a {
+  color: #0092ff;
+  text-decoration: none;
+}
+a:hover {
+    color: #ffc200;
+    text-decoration: underline;
+}
