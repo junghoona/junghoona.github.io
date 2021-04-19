@@ -8,7 +8,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <div style="font-family: 'Rubik', sans-serif;">
   <h1>JOHN AN</h1>
-  <h2><span style="color: #ffc200">BA Economics</span> <span style="color: #0092ff">Computer Science 2nd Major</span>
+  <h2><span style="color: #ffc200">BA Economics</span> | <span style="color: #0092ff">Computer Science 2nd Major</span> |
   <span style="color: #1800ff">Aspiring Full Stack Developer</span></h2>
 
   <hr>
