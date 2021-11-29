@@ -19,7 +19,7 @@
       <p>
       Hello,
       My name is John, and I graduated from UCSB in 2020 with a BA in Economics.
-      Currently, I am studying Computer Science at Irvine Valley College with interests in software programming, mobile app development, and web design.
+      Currently, I am studying Computer Science with interests in software programming, and data analysis.
       I have working knowledge of C, C++ Programming Language, and fundamental knowledge of HTML and CSS for web programming.
       </p>
       <p>
@@ -28,7 +28,7 @@
       such as education, employment and health care.
       </p>
       <p>
-      In my spare time, I like to stay active by working out at a local facility, playing basketball and hiking.
+      In my spare time, I like to stay active by working out at a local gym, playing basketball and hiking.
       I love trying out new food, exploring new sights, meeting new people, and learning new things.
       </p>
 </div>
